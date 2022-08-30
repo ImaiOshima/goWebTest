@@ -3,4 +3,51 @@
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
+  <component name="org.codebrewer.idea.toolwindowmanager">
+    <toolwindow id="Alibaba Cloud Explorer" preference="UNAVAILABLE" />
+    <toolwindow id="Alibaba Cloud View" preference="UNAVAILABLE" />
+    <toolwindow id="Alibaba Function Compute" preference="UNAVAILABLE" />
+    <toolwindow id="Alibaba Log Console" preference="UNAVAILABLE" />
+    <toolwindow id="Alibaba ROS Templates" preference="UNAFFECTED" />
+    <toolwindow id="BigDataToolWindow" preference="UNAFFECTED" />
+    <toolwindow id="Bookmarks" preference="UNAFFECTED" />
+    <toolwindow id="Codeup" preference="UNAVAILABLE" />
+    <toolwindow id="Codota" preference="UNAFFECTED" />
+    <toolwindow id="Commit" preference="UNAFFECTED" />
+    <toolwindow id="Database" preference="UNAFFECTED" />
+    <toolwindow id="Database Changes" preference="UNAFFECTED" />
+    <toolwindow id="DatabricksToolWindow" preference="UNAFFECTED" />
+    <toolwindow id="EmrToolWindow" preference="UNAFFECTED" />
+    <toolwindow id="Endpoints" preference="UNAFFECTED" />
+    <toolwindow id="Event Log" preference="UNAFFECTED" />
+    <toolwindow id="File Transfer" preference="UNAFFECTED" />
+    <toolwindow id="Find" preference="UNAFFECTED" />
+    <toolwindow id="Flow" preference="UNAFFECTED" />
+    <toolwindow id="Internal Method Tracing" preference="UNAFFECTED" />
+    <toolwindow id="KafkaToolWindow" preference="UNAFFECTED" />
+    <toolwindow id="Key Promoter X" preference="UNAFFECTED" />
+    <toolwindow id="Layout Validation" preference="UNAFFECTED" />
+    <toolwindow id="Learn" preference="UNAFFECTED" />
+    <toolwindow id="Problems View" preference="UNAFFECTED" />
+    <toolwindow id="Profiler" preference="UNAFFECTED" />
+    <toolwindow id="Project" preference="UNAFFECTED" />
+    <toolwindow id="Pull Requests" preference="UNAFFECTED" />
+    <toolwindow id="Python Packages" preference="UNAFFECTED" />
+    <toolwindow id="SciView" preference="UNAFFECTED" />
+    <toolwindow id="Services" preference="UNAFFECTED" />
+    <toolwindow id="Space Automation" preference="UNAFFECTED" />
+    <toolwindow id="Space Code Reviews" preference="UNAFFECTED" />
+    <toolwindow id="SparkMonitoringToolWindow" preference="UNAFFECTED" />
+    <toolwindow id="Structure" preference="UNAFFECTED" />
+    <toolwindow id="TODO" preference="UNAFFECTED" />
+    <toolwindow id="Terminal" preference="UNAFFECTED" />
+    <toolwindow id="TypeScript" preference="UNAFFECTED" />
+    <toolwindow id="Version Control" preference="UNAFFECTED" />
+    <toolwindow id="hadoop-toolwindow" preference="UNAFFECTED" />
+    <toolwindow id="internal-profiler" preference="UNAFFECTED" />
+    <toolwindow id="jclasslib" preference="UNAFFECTED" />
+    <toolwindow id="scala-trace-log-viewer" preference="UNAFFECTED" />
+    <toolwindow id="zeppelin-shell-toolwindow" preference="UNAFFECTED" />
+    <toolwindow id="应用观测器" preference="UNAVAILABLE" />
+  </component>
 </project>
