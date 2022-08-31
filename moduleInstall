@@ -1,0 +1,6 @@
+
+go get -u gopkg.in/natefinch/lumberjack.v2
+go get -u github.com/swaggo/swag/cmd/swag
+go get -u github.com/swaggo/gin-swagger@v1.5.2
+go get -u github.com/swaggo/files
+go get -u github.com/alecthomas/template
